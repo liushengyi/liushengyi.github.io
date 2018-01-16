@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: 刘盛毅
+name: Liu Shengyi
+email: liushengyi2012@163.com
+description: 纵然你是站着，还是倒下，生活照样沿着它自有的轨道继续着前行，因此，为不负生命的价值与意义，唯有卸下心中的磊石，撕去一切无谓的虚荣，不为他人的视线去左右，亦不为生命的负重而停留，恁为你那一份不变的执着，赢得一张最后的灿烂的笑容。
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
